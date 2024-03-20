@@ -8,3 +8,9 @@ Nosotrossss
 
 ## Contac me
 hacer el cierre de la insripcion imvitando a contactar.
+
+## Hobbies
+- Dancing: ...
+-Videogame player
+-soccer
+-trekking
