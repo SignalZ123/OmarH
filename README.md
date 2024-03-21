@@ -8,3 +8,7 @@ Nosotrossss
 
 ## Contac me
 hacer el cierre de la insripcion imvitando a contactar.
+
+## Languages
+-Castellano : nativo
+-Ingles : Basico
