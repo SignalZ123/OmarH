@@ -9,8 +9,12 @@ Nosotrossss
 ## Contac me
 hacer el cierre de la insripcion imvitando a contactar.
 
+## Skills
+- Problem-Solving: As a developer, I thrive on solving complex problems. I’m constantly exploring new technologies and...
+
 ## Hobbies
 - Dancing: ...
 -Videogame player
 -soccer
 -trekking
+
